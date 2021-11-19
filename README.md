@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+I am Aravind Balineni 🧑
+
+I live in Hyderbad, TG, India and working as Automation Technical Lead. Over the past 4 years I had been working as UiPath Developer automated  over 50+ processes👌😁. I am also having experience in developing web apps using Angular, React and actively learning ML. Anymore, my future will be on Automation and Machine Learning.😍
+
 <!--
 **arwinb/arwinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
